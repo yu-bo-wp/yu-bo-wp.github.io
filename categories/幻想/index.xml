@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>幻想 on arm-vx</title>
-        <link>https://yu-bo-wp.github.io/categories/test/</link>
+        <link>https://yu-bo-wp.github.io/categories/%E5%B9%BB%E6%83%B3/</link>
         <description>Recent content in 幻想 on arm-vx</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>arm-vx</copyright><atom:link href="https://yu-bo-wp.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>arm-vx</copyright><atom:link href="https://yu-bo-wp.github.io/categories/%E5%B9%BB%E6%83%B3/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
